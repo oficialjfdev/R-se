@@ -15,3 +15,4 @@ Trabalho de interdisciplinar do Curso Superior de Tecnologia em Jogos Digitais d
 Semestre letivo: 2020/1
 
 VICE-CAMPEÃO da Mostra Melhores do SMAUG 2020/1
+Ref: https://sijoga.itch.io/rise
